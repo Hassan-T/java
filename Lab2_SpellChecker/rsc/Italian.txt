@@ -55419,7 +55419,7 @@ nolo
 nomade
 nomadismo
 Nomaglio
-nomea
+nome
 nomenclatore
 nomenclatrice
 nomenclatura
